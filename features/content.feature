@@ -17,7 +17,7 @@ When Eu clico no componente "Filme"
 And Escolho a opção "Excluir" dentre as opções "Excluir" e "Editar"
 And Clico "Sim" na tela de confirmar exclusão
 Then O filme é removido com sucesso
-
+And O usuário retorna para a página "Feed"
 
 Scenario: Edição das informações do filme
 Given Estou logado no usuário "Administrador"
