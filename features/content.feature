@@ -27,6 +27,7 @@ And Escolho a opção "Editar" dentre as opções "Excluir" e "Editar"
 And Modifico as informações do campo sinopse de "Steve Spielberg" para "Michael Radford"
 Then A informação é editada com sucesso
 And O usuário retorna para a página "Feed"
+And erro adicionado para a Q7
 
 
 Scenario: Falha no Cadastro
