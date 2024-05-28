@@ -28,7 +28,6 @@ And Modifico as informações do campo sinopse de "Steve Spielberg" para "Michae
 Then A informação é editada com sucesso
 And O usuário retorna para a página "Feed"
 
-
 Scenario: Falha no Cadastro
 Given Estou logado no usuário "Administrador"
 And Estou na página "Feed" e quero adicionar o filme "Barbie"
