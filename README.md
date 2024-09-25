@@ -1,3 +1,7 @@
+To run the project, simply run npm install and npm start in both the frontend and backend.
+
+
+
 # Projeto de Review de Filmes
 
 Este é um projeto de site de review de filmes desenvolvido utilizando React no frontend e Node.js no backend.
